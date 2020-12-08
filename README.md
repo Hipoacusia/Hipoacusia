@@ -1,6 +1,5 @@
 ### Hi Coders👋
 
-<!--
 **Hipoacusia/Hipoacusia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About me
@@ -9,4 +8,3 @@
 - 🌱 I’m currently learning :computer:  ***Java and Php.***
 - 👯 I’m looking to collaborate on with anyone who is willing to do a project.
 - 📫 How to reach me: :camera: [Instagram](https://www.instagram.com/heinenmiguel/) :bird: [Twitter](https://twitter.com/Miguel55712889) :keyboard: [Codepen](https://codepen.io/hipoacusia)
--->
