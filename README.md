@@ -1,5 +1,6 @@
 ### Hi Coders👋
 
+[!Banner Img](https://github.com/Hipoacusia/Hipoacusia/blob/main/BannerGit.png?raw=true)
 
 ## About me
 
