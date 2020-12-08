@@ -10,7 +10,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hipoacusia&show_icons=true&theme=merko)](https://github.com/Hipoacusia/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hipoacusia)](https://github.com/Hipoacusia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hipoacusia)](https://github.com/Hipoacusia/github-readme-stats)
 
 
 
