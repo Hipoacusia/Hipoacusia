@@ -10,4 +10,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hipoacusia)](https://github.com/Hipoacusia/github-readme-stats)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hipoacusiaa&show_icons=true&theme=radical)
+
 
