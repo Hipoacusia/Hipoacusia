@@ -1,4 +1,4 @@
-### Hi Coders👋
+<h1 style="color: #f500f2"> Hi coders </h1>
 
 <p align="center">
   <img src="https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true"/>
