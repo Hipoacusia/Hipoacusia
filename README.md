@@ -1,6 +1,6 @@
 ### Hi Coders👋
 
-![Alt text](https://github.com/Hipoacusia/Hipoacusia/blob/main/BannerGit.png?raw=true)
+![Alt text](https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true)
 
 ## About me
 
