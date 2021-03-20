@@ -1,8 +1,9 @@
 ### Hi Coders👋
 
-<span align="center">
+<span align="center" style="margin: auto;">
   <img src="https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true"/>
 </span>
+
 ## About me
 
 - 🔭 I’m currently working on :desktop: ***Javascript,Sass,Css and Html***
