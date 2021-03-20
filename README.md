@@ -1,7 +1,7 @@
 ### Hi Coders👋
 
 <span align="center">
-  ![Alt text](https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true)
+  <img src="https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true"/>
 </span>
 ## About me
 
