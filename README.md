@@ -1,10 +1,10 @@
-<h1 style="color: #ff00f2;"> Hi coders </h1>
+<h1> Hi coders :wave: </h1>
 
 <p align="center">
   <img src="https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true"/>
 </p>
 
-## About me
+<h2> About Me </h2>
 
 - 🔭 I’m currently working on :desktop: ***Javascript,Sass,Css and Html***
 - 🌱 I’m currently learning :computer:  ***Java and Php.***
