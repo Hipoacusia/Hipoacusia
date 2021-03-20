@@ -21,15 +21,17 @@
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" all="sass" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="prisma" height="40" width="40">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c8a4f6272e9a00636383b4df37ba1705587a1b97/icons/file_type_light_prisma.svg" alt="prisma" height="40" width="40">  
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="prisma" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="prisma" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="prisma" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="prisma" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="prisma" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="prisma" height="40" width="40">
-  <img src="" alt="prisma" height="40" width="40">
-  <img src="" alt="prisma" height="40" width="40">
-  <img src="" alt="prisma" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angula" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/lukas-w/font-logos/1963c5e05343564b0d23f4920109082120b4e89d/vectors/manjaro.svg" alt="manjaro" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="prisma" height="40" width="40">
 </p>
 
 
