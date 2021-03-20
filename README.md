@@ -1,8 +1,8 @@
 ### Hi Coders👋
 
-<span align="center" style="margin: auto;">
+<p align="center">
   <img src="https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true"/>
-</span>
+</p>
 
 ## About me
 
