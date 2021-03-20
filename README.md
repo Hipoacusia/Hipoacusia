@@ -36,7 +36,8 @@
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40" width="40">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40" width="40">
   <img src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-icon.svg" alt="svg" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inksacpe" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" height="40" width="40">
 </p>
 
 
