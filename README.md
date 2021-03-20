@@ -31,7 +31,12 @@
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" height="40" width="40">
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" height="40" width="40">
   <img src="https://raw.githubusercontent.com/lukas-w/font-logos/1963c5e05343564b0d23f4920109082120b4e89d/vectors/manjaro.svg" alt="manjaro" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="prisma" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-icon.svg" alt="svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="" height="40" width="40">
 </p>
 
 
