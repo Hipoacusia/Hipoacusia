@@ -12,7 +12,7 @@
 
 <h3>Tools:</h3>
 
-https://www.w3.org/html/
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hipoacusia&show_icons=true&theme=tokyonight)](https://github.com/Hipoacusia/github-readme-stats)
 
