@@ -1,7 +1,8 @@
 ### Hi Coders👋
 
-![Alt text](https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true)
-
+<span align="center">
+  ![Alt text](https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true)
+</span>
 ## About me
 
 - 🔭 I’m currently working on :desktop: ***Javascript,Sass,Css and Html***
