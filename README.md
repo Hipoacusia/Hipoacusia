@@ -16,7 +16,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original-wordmark.svg" alt="Sass" height="40" width="40" style="max-width:100%;">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hipoacusia&show_icons=true&theme=tokyonight)](https://github.com/Hipoacusia/github-readme-stats)
 
